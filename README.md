@@ -1,4 +1,4 @@
 learning
 ========
 
-learning about GIT repository
+Learning about GIT repositoy.
